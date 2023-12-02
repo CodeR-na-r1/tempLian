@@ -1,0 +1,28 @@
+Path Search Parameters:
+Distance delta -> 18px
+Angle delta -> 25°
+---------------
+Path characteristics:
+Distance -> 266.52146732215135px
+Sum angles -> 44.51334061028243°
+---------------
+Pathfinding time -> 0:00:00.057013
+---------------
+Points of path:
+Point(165, 305) Angle = 0
+Point(181, 314) Angle = 0
+Point(197, 323) Angle = 0.0
+Point(213, 332) Angle = 0.0
+Point(229, 341) Angle = 0.0
+Point(245, 350) Angle = 0.0
+Point(261, 359) Angle = 0.0
+Point(277, 368) Angle = 0.0
+Point(293, 377) Angle = 0.0
+Point(310, 384) Angle = 6.977618490831701
+Point(326, 393) Angle = 13.955236981663402
+Point(342, 402) Angle = 13.955236981663402
+Point(359, 409) Angle = 20.932855472495103
+Point(375, 418) Angle = 27.910473963326805
+Point(392, 425) Angle = 34.8880924541585
+Point(400, 430) Angle = 44.51334061028243
+---------------
